@@ -3,7 +3,7 @@
   color: rgb(255, 255, 255);
   padding: 245px 0px;
   width: 100%;
-  background-image: url(/images/cover-trains.jpg);
+  background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
   position: relative;
   height: 100%;
