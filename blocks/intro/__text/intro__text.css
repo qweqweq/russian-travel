@@ -1,6 +1,5 @@
 .intro__text {
   max-width: 690px;
-  max-height: 208px;
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
@@ -23,7 +22,6 @@
 @media screen and (max-width: 767px) {
   .intro__text {
     max-width: 95%;
-    max-height: 520px;
     margin: 0 auto 34px;
   }
 }
@@ -31,6 +29,5 @@
 @media screen and (max-width: 424px) {
   .intro__text {
     max-width: 288px;
-    max-height: 520px;
   }
 }
