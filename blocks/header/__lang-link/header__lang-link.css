@@ -10,7 +10,6 @@
 
 .header__lang-link:hover {
   opacity: 0.8;
-  border-bottom: none;
   transition: opacity 0.5s ease;
 }
 
